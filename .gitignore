@@ -1,0 +1,6 @@
+node_modules/
+server.log
+server.min.js
+views/.gitignore
+Git.txt
+package-lock.json
